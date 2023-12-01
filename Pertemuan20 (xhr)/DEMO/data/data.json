@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "Sandhika Galih",
+        "NIP" : "008983384",
+        "email" :  "sandhikagalih@gmail.com",
+        "jurusan" : "TEKNIK INFORMATIKA",
+        "idDosenWali" : 1
+    }, 
+    {
+        "nama" : "Erik",
+        "NIP" : "3892002389",
+        "email" : "erik@gmail.com",
+        "jurusan" : "Teknik Industri",
+        "idDosenWali" : 2
+    },
+    {
+        "nama" : "Raphael",
+        "NIP" : "6687969090",
+        "email" : "raphael@gmail.com",
+        "jurusan" : "Teknik Elektro",
+        "idDosenWali" : 3
+    }
+]
